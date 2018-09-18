@@ -1,6 +1,6 @@
 # S.A.M. 
 CHANGE THE FILE CHANGE THE FILE CHANGE THE FILE
-
+CHANGE FILE ON EDITOR CHANGE FILE ON EDITOR
 ## Super Awesome Machine
 ### A personal assistant for your desktop 
 
