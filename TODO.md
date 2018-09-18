@@ -1,0 +1,10 @@
+- ~~Brightness control~~
+- ~~Volume control~~
+- Checking weather
+- ~~Smalltalk~~
+- Basic math
+- Advanced math
+- Word search
+- Translation
+- ~~WiFi control~~
+- Open apps

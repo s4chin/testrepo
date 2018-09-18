@@ -1,0 +1,4 @@
+apiai
+wolframalpha
+pyttsx
+SpeechRecognition==3.1.3
